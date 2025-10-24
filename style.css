@@ -1,8 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitcount+Grid+Single:wght@100..900&display=swap');
 body{
     background-color: rgba(125, 165, 162, 0.69);
     color:rgb(36, 33, 122)
     font-size 60px;
-    font-family: cursive;
+    font-family: sans-serif;
+    text-align: center;
 }
 
 ing {
