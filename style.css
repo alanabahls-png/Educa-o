@@ -2,6 +2,7 @@ body{
     background-color: rgba(125, 165, 162, 0.69);
     color:rgb(36, 33, 122)
     font-size 60px;
+    font-family: cursive;
 }
 
 ing {
@@ -15,8 +16,5 @@ ing {
 
 #ronaldo{
     font-family: sans-serif;
-}
 
-footer {
-    background-color: rgb(0, 128, 111);
 }
